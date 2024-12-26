@@ -8,7 +8,7 @@
 ## 🛠 Skills & Tools
 - 💻 **Programming Languages**: JavaScript, Python, HTML/CSS, Typescript, Tailwind
 - ⚙️ **Frameworks & Libraries**: React, Next.js
-- 📦 **Tools**: Git, GitHub, VS Code, Premiere Pro, After Effects
+- 📦 **Tools**: Git, GitHub, VS Code, Premiere Pro, After Effects, DJI Mavic Pro
 - 🎥 Videography/Photography: Professional editing with Adobe Creative Suite
 
 ## 💬 Collaboration & Interests
