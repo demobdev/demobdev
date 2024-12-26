@@ -6,7 +6,7 @@
 - 🌐 I’m currently learning **React**, **Next.js**, and blockchain technologies for modern web development.
 
 ## 🛠 Skills & Tools
-- 💻 **Programming Languages**: JavaScript, Python, HTML/CSS
+- 💻 **Programming Languages**: JavaScript, Python, HTML/CSS, Typescript, Tailwind
 - ⚙️ **Frameworks & Libraries**: React, Next.js
 - 📦 **Tools**: Git, GitHub, VS Code, Premiere Pro, After Effects
 - 🎥 Videography/Photography: Professional editing with Adobe Creative Suite
