@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Demo Bailey (@demobdev)
+# 👋 Hi, I’m Demo (@demobdev)
 
 ## 👨‍💻 About Me
 - 🚀 I’m a software developer and a creative videographer/photographer based in Greenville, SC.
